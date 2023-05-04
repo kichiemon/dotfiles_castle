@@ -1,0 +1,12 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+brew "asdf"
+brew "cmake"
+brew "fish"
+brew "jq"
+brew "nghttp2"
+brew "tig"
+brew "tree"
+cask "iterm2"
+
