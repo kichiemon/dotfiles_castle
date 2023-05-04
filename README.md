@@ -4,7 +4,7 @@
 
 1. Setup Git
 
-2. Clonse
+2. Clone
 ```
 git clone git@github.com:kichiemon/dotfiles_castle.git
 ```
