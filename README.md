@@ -2,12 +2,14 @@
 
 ## Installation
 
-1. Clonse
+1. Setup Git
+
+2. Clonse
 ```
 git clone git@github.com:kichiemon/dotfiles_castle.git
 ```
 
-2. Install deps & setup
+3. Install deps & setup
 ```
 make init
 ```
